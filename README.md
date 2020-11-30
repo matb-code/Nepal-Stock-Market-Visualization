@@ -33,6 +33,6 @@ This project is under development feel free to pull request at us.
 
 * **Aakalpa Aryal** - [Aakalpa](https://github.com/Aakalpa)
 * **Sampanna Sharma** - [Sampanna-Sharma](https://github.com/Sampanna-Sharma)
-* **Shrawan Kumar Thapa** - [iamshrawan](https://github.com/iamshrawan)
+* **Shrawan Kumar Thapa** - [shrawan-thapa](https://github.com/shrawan-thapa)
 * **Sudeep Bhandari** - [sudeephb](https://github.com/sudeephb)
 
